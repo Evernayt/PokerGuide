@@ -1,0 +1,4 @@
+const HOME_ROUTE = 'HOME_ROUTE';
+const GUIDE_ROUTE = 'GUIDE_ROUTE';
+
+export {HOME_ROUTE, GUIDE_ROUTE};
